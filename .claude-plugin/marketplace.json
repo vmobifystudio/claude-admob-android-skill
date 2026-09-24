@@ -1,0 +1,20 @@
+{
+  "name": "admob-android",
+  "owner": {
+    "name": "Mobify Studio",
+    "url": "https://vmobify.in"
+  },
+  "metadata": {
+    "description": "Claude Code skill for shipping and auditing AdMob on Android (legacy + GMA Next-Gen, Meta mediation, UMP)."
+  },
+  "plugins": [
+    {
+      "name": "admob-android-integration",
+      "source": "./",
+      "description": "Production-grade AdMob for Android: SDK choice, mediation, consent, all five formats, lifecycle rules learned in production, release gates and an audit checklist.",
+      "version": "1.0.0",
+      "category": "development",
+      "keywords": ["admob", "android", "monetization", "ads", "kotlin"]
+    }
+  ]
+}

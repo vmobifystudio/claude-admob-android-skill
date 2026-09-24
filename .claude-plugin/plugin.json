@@ -1,0 +1,19 @@
+{
+  "name": "admob-android-integration",
+  "description": "Production-grade AdMob for Android: legacy play-services-ads and GMA Next-Gen SDK, Meta Audience Network mediation, UMP consent, all five formats (banner, interstitial, rewarded, app open, native), fullscreen lifecycle rules learned in production, release gates, request discipline for show rate, and a 22-point audit checklist.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Mobify Studio",
+    "url": "https://vmobify.in"
+  },
+  "homepage": "https://github.com/vmobifystudio/claude-admob-android-skill",
+  "repository": "https://github.com/vmobifystudio/claude-admob-android-skill",
+  "license": "MIT",
+  "keywords": [
+    "admob", "android", "google-mobile-ads", "gma-next-gen", "play-services-ads",
+    "meta-audience-network", "mediation", "ump", "consent", "app-open-ad",
+    "interstitial", "rewarded", "native-ads", "banner", "jetpack-compose",
+    "kotlin", "monetization", "claude-code", "claude-skill"
+  ],
+  "skills": ["./skills/admob-android-integration"]
+}
